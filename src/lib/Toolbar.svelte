@@ -15,7 +15,10 @@ let {
 <header class="masthead">
 	<div class="brand-stack">
 		<div class="brand">KNOBOTICS</div>
-		<a href="https://github.com/" target="_blank" rel="noreferrer"
+		<a
+			href="https://github.com/axeljaeger/knobotics"
+			target="_blank"
+			rel="noreferrer"
 			>GitHub ↗ <span>v0.1.0</span></a
 		>
 	</div>

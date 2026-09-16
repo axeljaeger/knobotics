@@ -193,6 +193,7 @@ main {
 	right: auto;
 	gap: 22px;
 	border: 1px solid #c9d4cc;
+	border-top: 0;
 	border-radius: 0 0 15px 15px;
 	background: #fcfcf9;
 	box-shadow: 0 12px 28px #1730441c;

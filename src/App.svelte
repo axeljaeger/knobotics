@@ -33,7 +33,7 @@ let selectedWorld = $state<number | null>(null);
 let midiAccess = $state<MIDIAccess | null>(null);
 let target = $state<Point>({ x: 340, y: 154 });
 let crosshair = $state<Point>({ x: 340, y: 154 });
-let targetTheta = $state(0);
+let targetTheta = $state(thetaFor(initialAngles));
 let midiSupported = $state(false);
 
 function setAngle(index: number, value: number) {
