@@ -14,7 +14,7 @@
 		"format": "biome format --write ."
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.5.14",
+		"@biomejs/biome": "^2.6.3",
 		"@storybook/svelte-vite": "^10.6.0",
 		"@sveltejs/vite-plugin-svelte": "^7.3.1",
 		"@tsconfig/svelte": "^5.0.8",
